@@ -1,0 +1,19 @@
+#Se aceptan 
+
+she eats a cake
+he drinks the juice
+she cuts the soup with a spoon
+a cat eats a cake with a fork
+the soup cooks with a knife
+he eats the meat in the oven
+
+#Se rechazan 
+
+eats cake
+the cat
+with a fork
+she eats with
+the cat drinks the
+a cat eats with a
+he she eats
+the the cat eats
